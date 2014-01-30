@@ -1,0 +1,33 @@
+#unchecked {
+
+}
+
+#checked {
+}
+
+body{margin:0;}
+
+#container
+{
+margin-top:50px;
+}
+
+#greenbar {
+position:fixed;
+top:0px;
+width:100%;
+height:25px;
+margin: 0px;
+padding: 0px;
+color:white;
+background-color:DarkGreen;
+}
+#blackbar {
+position:fixed;
+width:100%;	
+height:5px;
+padding:0px;
+margin: 0px 0px 0px 0px;
+background-color:Black;
+}
+
