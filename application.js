@@ -21,7 +21,7 @@ var button = document.createElement("input");
 	button.id = title;
     button.type = "button";
     button.counter = counter;
-    button.value = "check";
+    button.value = "check off";
     button.onclick = function(){
     div.style.setProperty("text-decoration","line-through");
     document.getElementById('checked').appendChild(div);
